@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Projeto Redes Sociais é um site que apresenta um celular com minhas <strong>redes sociais</strong> na tela.<br>
 A ideia é simular a dinâmica das redes sociais, por meio da utilização de <strong>iframes</strong>.
 
-- [Acesse o projeto finalizado, online](https://mateusskv9.github.io/projeto-redes-social/)
+- [Acesse o projeto finalizado, online](https://mateusskv9.github.io/projeto-redes-sociais/)
 
 
 ## :memo: Licença
