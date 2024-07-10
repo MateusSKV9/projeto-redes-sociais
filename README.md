@@ -34,4 +34,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Desenvolvido por [Mateus Santos](https://www.linkedin.com/feed/update/urn:li:activity:7216522338568196097/), inspirado pelo <strong>Curso em Video</strong>.
+Desenvolvido por [Mateus Santos](https://www.linkedin.com/in/mateus-santos-1a7361246/), inspirado pelo <strong>Curso em Video</strong>.
