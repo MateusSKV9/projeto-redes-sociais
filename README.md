@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📱📱📱
+  <img src="https://media.licdn.com/dms/image/D4D22AQHrO-p202TMTQ/feedshare-shrink_1280/0/1707573276113?e=1723680000&v=beta&t=-nt9J0_JfgmwbhI3fSdZQgps3zecpa1Vt2VAo3VAAxo" alt="phone" width="600px"></img>
 </p>
 
 <br>
